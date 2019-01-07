@@ -1,0 +1,4 @@
+# I recommend building on a linux machine
+
+Install Flask-Ask
+pip install flask-ask
